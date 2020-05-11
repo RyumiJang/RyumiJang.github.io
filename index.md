@@ -1,6 +1,6 @@
 ## Introducing about me
 
-I am a student studying Computer in CSEE(http://csee.handong.edu/) in _Handong Global University_.
+I am a student studying Computer in CSEE(http://csee.handong.edu/) in _Handong Global University_.\n
 I am sophomore in university, and I like programming.
 Also, I am interested in handling Big data.
 
