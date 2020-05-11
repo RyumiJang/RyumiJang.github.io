@@ -6,7 +6,7 @@ Also, I am interested in handling Big data.
 
 ###Big-Data
 ```markdown
-This is famous department in Korea recently.  
+-This is famous department in Korea recently.  
 Because, information of things are now grown beyond discernment.  
 Maybe it will grow more.  
 ```
